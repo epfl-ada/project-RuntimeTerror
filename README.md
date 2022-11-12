@@ -1,6 +1,6 @@
 # Building and analysis of movie arcs
 
-Most plots in the film business follow one of a few well-known story arcs. For example, consider a narrative in which the main character begins in turmoil and finishes in bliss, or in which the main character resides happily but has problems that he/she must overcome before returning to his/her joy. In this project, we propose to explore this phenomenon in order to identify the most common storylines, how profitable those storylines are, and the evolution of the most prevalent storyline with time.
+Abstract (150 words): Most plots in the film business follow one of a few well-known story arcs. For example, consider a narrative in which the main character begins in turmoil and finishes in bliss, or in which the main character resides happily but has problems that he/she must overcome before returning to his/her joy. In this project, we propose to explore this phenomenon in order to identify the most common storylines, how profitable those storylines are, and the evolution of the most prevalent storyline with time.
 
 Research question: Which correlations can be retrieved from movie arcs?
 
