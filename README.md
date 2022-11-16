@@ -1,5 +1,7 @@
 # Building and analysis of movie arcs
 
+how to use the project/code
+
 Abstract (150 words): 
 
 Research question: 
